@@ -22,7 +22,7 @@ LottieProgressDialog(
     // if you want change title input string not null.  
     private val title: String?,   
     // if you want change title visible input visible value not null.  
-    private val titleVisible: Int? = View.VISIBLE.  
+    private val titleVisible: Int?  
 ).show()
 </code>
 </pre>
