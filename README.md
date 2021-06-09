@@ -4,6 +4,8 @@
 
 ## How To Use?
 
+<pre>
+<code>
 LottieProgressDialog(     
     context: Context,   
     // setting cancelable.     
@@ -21,11 +23,14 @@ LottieProgressDialog(
     private val title: String?,   
     // if you want change title visible input visible value not null.  
     private val titleVisible: Int? = View.VISIBLE.  
-)
+).show()
+</code>
+</pre>
 
 ## Sample Lottie Json Files Producer List
 - Sample1 : 太年轻
-![8311-loading](https://user-images.githubusercontent.com/26542733/121296281-5c0c0380-c92b-11eb-8d22-32394d8586fb.gif){: width="100" height="100"}
+<img src="https://user-images.githubusercontent.com/26542733/121296281-5c0c0380-c92b-11eb-8d22-32394d8586fb.gif" width="100", height="100">
+
 
 - Sample2 : cam92
 ![9809-loading](https://user-images.githubusercontent.com/26542733/121296358-79d96880-c92b-11eb-9ec9-70bd69996a81.gif){: width="100" height="100"}
