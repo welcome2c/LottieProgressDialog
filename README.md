@@ -25,34 +25,34 @@ LottieProgressDialog(
 
 ## Sample Lottie Json Files Producer List
 - Sample1 : 太年轻
-![8311-loading](https://user-images.githubusercontent.com/26542733/121296281-5c0c0380-c92b-11eb-8d22-32394d8586fb.gif)
+![8311-loading](https://user-images.githubusercontent.com/26542733/121296281-5c0c0380-c92b-11eb-8d22-32394d8586fb.gif){: width="100" height="100"}
 
 - Sample2 : cam92
-![9809-loading](https://user-images.githubusercontent.com/26542733/121296358-79d96880-c92b-11eb-9ec9-70bd69996a81.gif)
+![9809-loading](https://user-images.githubusercontent.com/26542733/121296358-79d96880-c92b-11eb-9ec9-70bd69996a81.gif){: width="100" height="100"}
 
 - Sample3 : Emir Geçir
-![63442-loading-papara](https://user-images.githubusercontent.com/26542733/121296416-983f6400-c92b-11eb-8a44-029aaba2688b.gif)
+![63442-loading-papara](https://user-images.githubusercontent.com/26542733/121296416-983f6400-c92b-11eb-8a44-029aaba2688b.gif){: width="100" height="100"}
 
 - Sample4 : guangxia zhou
-![6472-loading](https://user-images.githubusercontent.com/26542733/121296467-b4db9c00-c92b-11eb-9649-9cb87191fd4b.gif)
+![6472-loading](https://user-images.githubusercontent.com/26542733/121296467-b4db9c00-c92b-11eb-9649-9cb87191fd4b.gif){: width="100" height="100"}
 
 - Sample5 : Jieun Choi
-![890-loading-animation](https://user-images.githubusercontent.com/26542733/121296535-cfae1080-c92b-11eb-8054-61550bbdabed.gif)
+![890-loading-animation](https://user-images.githubusercontent.com/26542733/121296535-cfae1080-c92b-11eb-8054-61550bbdabed.gif){: width="100" height="100"}
 
 - Sample6 : Luisa Fernanda Bolaños Beltrán
-![935-loading](https://user-images.githubusercontent.com/26542733/121296621-f2402980-c92b-11eb-9825-0be192e6adcb.gif)
+![935-loading](https://user-images.githubusercontent.com/26542733/121296621-f2402980-c92b-11eb-9825-0be192e6adcb.gif){: width="100" height="100"}
 
 - Sample7 : SaagarShrest
-![8734-loading](https://user-images.githubusercontent.com/26542733/121296707-0d129e00-c92c-11eb-9311-b2a3d5ee46c3.gif)
+![8734-loading](https://user-images.githubusercontent.com/26542733/121296707-0d129e00-c92c-11eb-9311-b2a3d5ee46c3.gif){: width="100" height="100"}
 
 - Sample8 : Sara Díaz
-![8707-loading](https://user-images.githubusercontent.com/26542733/121296771-2582b880-c92c-11eb-930b-0080f7bde793.gif)
+![8707-loading](https://user-images.githubusercontent.com/26542733/121296771-2582b880-c92c-11eb-930b-0080f7bde793.gif){: width="100" height="100"}
 
 - Sample9 : Sarowar Kabir Noyon
-![64030-loading](https://user-images.githubusercontent.com/26542733/121296895-5cf16500-c92c-11eb-9cae-1f8fa26a1d35.gif)
+![64030-loading](https://user-images.githubusercontent.com/26542733/121296895-5cf16500-c92c-11eb-9cae-1f8fa26a1d35.gif){: width="100" height="100"}
 
 - Sample10 : Siyuan Qiu
-![9619-loading-dots-in-yellow](https://user-images.githubusercontent.com/26542733/121296940-74c8e900-c92c-11eb-9655-2deddd451b4a.gif)
+![9619-loading-dots-in-yellow](https://user-images.githubusercontent.com/26542733/121296940-74c8e900-c92c-11eb-9655-2deddd451b4a.gif){: width="100" height="100"}
 
 
 Thanks
