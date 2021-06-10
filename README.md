@@ -18,6 +18,7 @@ Add lines below to your app level build.gradle
   implementation 'com.github.welcome2c:LottieProgressDialog:1.0.1'
 ```
 
+Information For Constructor
 ```kotlin
 LottieProgressDialog(     
     context: Context,   
