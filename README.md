@@ -3,9 +3,7 @@
 ## Custom Dialog use Lottie Dialog
 
 ## How To Use?
-
-
-```java
+```kotlin
 LottieProgressDialog(     
     context: Context,   
     // setting cancelable.     
@@ -25,6 +23,22 @@ LottieProgressDialog(
     private val titleVisible: Int?  
 ).show()
 ```
+
+### Example
+```kotlin
+LottieProgressDialog(
+    context = this,
+    isCancel = true,
+    dialogWidth = null,
+    dialogHeight = null,
+    animationViewWidth = null,
+    animationViewHeight = null,
+    fileName = LottieProgressDialog.SAMPLE_1,
+    title = null,
+    titleVisible = null
+).show()
+```
+            
 
 ### PreView
 <img width="300" height="500" src="https://user-images.githubusercontent.com/26542733/121466355-43b2ec00-c9f2-11eb-9362-0eccc43e11b4.gif"/>
