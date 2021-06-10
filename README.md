@@ -1,6 +1,4 @@
-# LottieProgressDialog
-
-## Custom Dialog use Lottie Dialog
+# Custom Dialog use Lottie Dialog
 
 ## How To Use?
 ```kotlin
