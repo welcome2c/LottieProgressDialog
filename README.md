@@ -1,6 +1,23 @@
 # Custom Dialog use Lottie Dialog
 
 ## How To Use?
+If yow want specific lottie file you must put your assets to under app → src → main → assets folder
+
+Add line below to your top level build.gradle
+```android
+allprojects {
+    repositories {
+        /// ....
+        maven { url "https://jitpack.io" }
+    }
+}
+```
+
+Add lines below to your app level build.gradle
+```android
+  implementation 'com.github.welcome2c:LottieProgressDialog:1.0.1'
+```
+
 ```kotlin
 LottieProgressDialog(     
     context: Context,   
