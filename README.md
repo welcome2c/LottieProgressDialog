@@ -27,11 +27,11 @@ LottieProgressDialog(
 </code>
 </pre>
 
-<img width="80%" src="https://user-images.githubusercontent.com/26542733/121465838-50831000-c9f1-11eb-8f56-84d3ee9e1a93.mov"/>
+<img width="100" height="100" src="https://user-images.githubusercontent.com/26542733/121465838-50831000-c9f1-11eb-8f56-84d3ee9e1a93.mov"/>
 
 ## Sample Lottie Json Files Producer List
 - Sample1 : 太年轻   
-<img width="80%" src="https://user-images.githubusercontent.com/26542733/121297393-37b12680-c92d-11eb-9e9e-afbd146d1781.gif"/>
+<img width="100" height="100" src="https://user-images.githubusercontent.com/26542733/121297393-37b12680-c92d-11eb-9e9e-afbd146d1781.gif"/>
 <!-- ![8311-loading](https://user-images.githubusercontent.com/26542733/121297393-37b12680-c92d-11eb-9e9e-afbd146d1781.gif) -->
 
 - Sample2 : cam92   
